@@ -1,4 +1,4 @@
-# Covid-modelling
+# COVID-19 modelling
 
 This repository contains an analysis of COVID-19 cases in South Africa. We present the number of confirmed cases from March to September 2020. The analysis explores provincial cases, number of health care facilities available in each province and the population numbers. It also includes a model to determine the effectiveness of the lockdown period in reducing the spread of the virus
 
