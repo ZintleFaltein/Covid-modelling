@@ -10,5 +10,5 @@ This repository contains an analysis of COVID-19 cases in South Africa. We prese
 # Data sources
 - Data Science for Social Impact Research Group @ University of Pretoria, Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa. Available on: https://github.com/dsfsi/covid19za.
 
-# Acknowledgemnts 
+# Acknowledgements 
 - Joanne Moonsamy
